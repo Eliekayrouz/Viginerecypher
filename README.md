@@ -43,3 +43,7 @@ Reverse Permutation: Takes elyc, splits it, and weaves it back -> eylc
 Vigenère Decryption: Reverses the letter shifts using key andy -> elie
 
 Final Result: Successfully restored original plaintext elie.
+<img width="668" height="215" alt="image" src="https://github.com/user-attachments/assets/0e68af78-97c4-4b38-9456-151575cc4613" />
+<img width="721" height="201" alt="image" src="https://github.com/user-attachments/assets/d7294bd5-24f7-472c-90ce-45b316a361d9" />
+
+
